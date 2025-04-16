@@ -1,5 +1,5 @@
 # Gauss-Crout-decomposition-as-a-tool-for-solving-electric-circuits
-This is a project which I made for my course named Computational Techniques. It's a tool which can easily solve electric circuits. It's enough to bring a circuit into equations of Mesh Current Method or  Potential Method
+This is a project which I made for my course named Computational Techniques. It's a tool which can easily solve electric circuits. It's enough to bring a circuit into equations of Mesh Current Method or  Potential Method.
 ##  Overview
 
 The main goal of the project is to provide a tool for solving systems of `n` equations with `n` unknowns using the **Crout decomposition method**. It decomposes a matrix `A` into a lower triangular matrix `L` and an upper triangular matrix `U`, such that:
